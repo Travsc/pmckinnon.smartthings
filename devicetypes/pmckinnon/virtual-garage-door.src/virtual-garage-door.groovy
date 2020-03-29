@@ -1,5 +1,5 @@
 /**
- *  Virtual Garage Door
+ *  Virtual Garage Door 2
  *
  *  Copyright 2017 Patrick McKinnon
  *

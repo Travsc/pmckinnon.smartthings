@@ -15,7 +15,7 @@
  *  Author: Patrick McKinnon (patrick@ojolabs.com)
  */
 metadata {
-    definition (name: "Virtual Garage Door", namespace: "pmckinnon", author: "patrick@ojolabs.com") {
+    definition (name: "Virtual Garage Door 2", namespace: "pmckinnon", author: "patrick@ojolabs.com") {
         capability "Actuator"
         capability "Door Control"
         capability "Garage Door Control"
